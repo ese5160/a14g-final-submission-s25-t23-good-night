@@ -88,7 +88,6 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 ## 3. Hardware & Software Requirements
 
-
 **Pass**:
 
 - [√] Design Review Criteria
@@ -103,15 +102,13 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 - [√] A 39x41x3.3mm OLED shall be used as user interface.
 
-![OLED]()
+![OLED](Images/OLED.jpg)
 
 - [√] The Electronic Pet shall move around with wheels controlled by PWM signals(≥20kHz frequency).
 
-![PWM Signals]()
+![PWM Signals](Images/Motor(50Hz).png)
 
 - [√] The project shall utilize a microphone to capture users' voice command.
-
-[Voice Control]()
 
 - [√] The project shall utilize a speaker to play audio signals.
 
