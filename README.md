@@ -201,7 +201,8 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 - Node-RED dashboard (screenshot)
 ![UI](Images/Node_Red_UI.png)
 - Node-RED backend (screenshot)
-![backen](Images/Node_Red_backen.png)
+![backend_1](Images/NodeRed-Backend1.png)
+![backend_2](Images/NodeRed-Backend2.png)
 - Block diagram of your system
 ![block diagram](Images/block_diagram.png)
 
