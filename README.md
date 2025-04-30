@@ -134,6 +134,8 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 (But for this one, we can weak-up audio by using voice command)
 
+[Voice Weak-up](https://drive.google.com/file/d/1QjdPzAFBdYn6xlC-yM1D15jq5Nro2u9h/view?usp=drive_link)
+
 - [√] The Elctronic Pet shall have a switch to allow firmware downloaded between MCU and AI voice module.
 
 - [√] The Elctronic Pet shall have a reset button to reset MCU.
@@ -142,11 +144,15 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 - [√] The OLED shall show real time clock with time changing animation under idle mode.
 
-[Real Time Clock](https://drive.google.com/file/d/1S1U7Caf9C6NZ1mCzJBRBQL5igcM34h3z/view?usp=sharing)
+[Real Time Clock](https://drive.google.com/file/d/113563IdeDLPqgcDlNYIJI8t_Kfd6H3IC/view?usp=sharing)
 
-- [ ] The Electronic Pet shall count down time, set by users' voice command(all voice ommand response time ≤100ms and all voice recognition accuracy ≥95%).
+- [√] The Electronic Pet shall count down time, set by users' voice command(all voice ommand response time ≤100ms and all voice recognition accuracy ≥95%).
 
-- [ ] The OLED shall show time counting down changing animation.
+[Voice Control](https://drive.google.com/file/d/1uEhCCXdXMqlJPuAjUW_ZJtCygNJ_ypcy/view?usp=drive_link)
+
+- [√] The OLED shall show time counting down changing animation.
+
+[Count Down Time](https://drive.google.com/file/d/1uEhCCXdXMqlJPuAjUW_ZJtCygNJ_ypcy/view?usp=drive_link)
 
 - [√] The project shall control LED strip to display several modes: blinking with one color in 0.5 milisecond period, holding in one color, holding in multiple colors.
 
@@ -158,7 +164,7 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 - [√] The Electronic Pet shall remind users to take breaks (OLED displaying animation for 10 seconds) and play a light show when 30 minutes counting down ends. (For test, we set time to 60 seconds)
 
-[Health Reminder](https://drive.google.com/file/d/1s0AS2_mxVfyUP6pOuxwXdDDN3MOvPk7L/view?usp=drive_link)
+[Health Reminder](https://drive.google.com/file/d/1pByXs5zT0Y9-n48iyKIn96K74kvmEg7N/view?usp=sharing)
 
 - [√] The Electronic Pet shall recognize and answer users' voice commands in 3 seconds after recieving voice activation commands.
 
