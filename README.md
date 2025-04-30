@@ -209,8 +209,8 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 ## Codebase
 
 - A link to your final embedded C firmware codebases
-- [CliThread.c](Application\src\CliThread\CliThread.c)
-- [CliThread.h](Application\src\CliThread\CliThread.h)
+- [CliThread.c](Application/src/CliThread/CliThread.c)
+- [CliThread.h](Application/src/CliThread/CliThread.h)
 - [Health Reminder.c](Application\src\Health_Reminder\Health_Reminder.c)
 - [Health Reminder.h](Application\src\Health_Reminder\Health_Reminder.h)
 - [IMU.c](Application\src\IMU\ImuTask.c)
