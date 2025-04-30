@@ -160,7 +160,9 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 - [√] The Electronic Pet shall move forward, move backward, turn left and turn right based on users' voice command or mobile application control.
 
-[Motor Control Based on Voice Command and Node-RED](https://drive.google.com/file/d/1fZCSuxt042b5PfyyEALYGmumLY5jCH-g/view?usp=sharing)
+[Motor Control Based on Node-RED](https://drive.google.com/file/d/1fZCSuxt042b5PfyyEALYGmumLY5jCH-g/view?usp=sharing)
+
+[Motor Control Based on Voice Module](https://drive.google.com/file/d/1cLYKxjtBCbKXMLHO_yQR-n1LWBqkUQFy/view?usp=sharing)
 
 - [√] The Electronic Pet shall remind users to take breaks (OLED displaying animation for 10 seconds) and play a light show when 30 minutes counting down ends. (For test, we set time to 60 seconds)
 
@@ -189,7 +191,7 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 - The standalone PCBA, top
 ![The standalone PCBA, top](Images/PCB_top.png)
 - The standalone PCBA, bottom
-![The standalone PCBA, bottom](Images/PCB_bottom.png)
+![The standalone PCBA, bottom](Images/PCB_bottom.jpg)
 - Thermal camera images while the board is running under load 
 ![Thermal camera images](Images/PCB_thermal.png)
 - The Altium Board design in 2D view (screenshot)
@@ -200,7 +202,7 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 ![UI](Images/Node_Red_UI.png)
 - Node-RED backend (screenshot)
 ![backen](Images/Node_Red_backen.png)
-- Block diagram of your system 
+- Block diagram of your system
 ![block diagram](Images/block_diagram.png)
 
 ## Codebase
