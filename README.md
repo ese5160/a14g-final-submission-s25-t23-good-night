@@ -95,14 +95,18 @@
 - Thermal camera images while the board is running under load 
 ![Thermal camera images](Images/PCB_thermal.png)
 - The Altium Board design in 2D view (screenshot)
+![AD_2D](Images/AD_2D.png)
 - The Altium Board design in 3D view (screenshot)
+![AD_3D](Images/AD_3D.png)
 - Node-RED dashboard (screenshot)
+![UI](Images/Node_Red_UI.png)
 - Node-RED backend (screenshot)
-- Block diagram of your system (You may need to update this to reflect changes throughout the semester.)
-
+![backen](Images/Node_Red_backen.png)
+- Block diagram of your system 
+![block diagram](Images/block_diagram.png)
 ## Codebase
 
 - A link to your final embedded C firmware codebases
-- A link to your Node-RED dashboard code
+- [Link to your Node-RED dashboard code](node_red.json)
 - Links to any other software required for the functionality of your device
 
