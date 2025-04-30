@@ -186,14 +186,10 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 ![backen](Images/Node_Red_backen.png)
 - Block diagram of your system 
 ![block diagram](Images/block_diagram.png)
+
 ## Codebase
 
-<<<<<<< HEAD
-- A link to your final embedded C firmware codebases
-- [Link to your Node-RED dashboard code](node_red.json)
-=======
-- A link to your final embedded C firmware codebases []
-- A link to your Node-RED dashboard code
->>>>>>> fdd9c6e99c82528170548fd05b2809af31a465e1
+- A link to your final embedded C firmware codebases- []
+- A link to your Node-RED dashboard code- [Link to your Node-RED dashboard code](node_red.json)
 - Links to any other software required for the functionality of your device
 
