@@ -169,7 +169,13 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 - [√] The speaker shall communicate with AI module via PWM/DAC signals.
 
 ## 4. Project Photos & Screenshots
-- Your final project, including any casework or interfacing elements that make up the full project (3D prints, screens, buttons, etc)
+- Final project, including any casework or interfacing elements that make up the full project (3D prints, screens, buttons, etc)
+![front](Images/front.jpg)
+![top](Images/top.jpg)
+![side](Images/side.jpg)
+![back](Images/back.jpg)
+![bottom](Images/bottom.jpg)
+
 - The standalone PCBA, top
 ![The standalone PCBA, top](Images/PCB_top.png)
 - The standalone PCBA, bottom
