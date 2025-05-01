@@ -208,28 +208,10 @@ The link to video presentation: [Video Presentation](https://drive.google.com/fi
 
 ## Codebase
 
-- A link to your final embedded C firmware codebases
-- [CliThread.c](Application/src/CliThread/CliThread.c)
-- [CliThread.h](Application/src/CliThread/CliThread.h)
-- [Health Reminder.c](Application/src/Health_Reminder/Health_Reminder.c)
-- [Health Reminder.h](Application/src/Health_Reminder/Health_Reminder.h)
-- [IMU.c](Application/src/IMU/ImuTask.c)
-- [IMU.h](Application/src/IMU/ImuTask.h)
-- [IMU Task.c](Application/src/IMU/lsm6dso_reg.c)
-- [IMU Task.h](Application/src/IMU/lsm6dso_reg.h)
-- [LCD.c](Application/src/LCD/LCD.c)
-- [LCD.h](Application/src/LCD/LCD.h)
-- [LED.c](Application/src/LED/LED.c)
-- [LED.h](Application/src/LED/LED.h)
-- [Motor.c](Application/src/Motor/Motor.c)
-- [Motor.h](Application/src/Motor/Motor.h)
-- [RTC LCD.c](Application/src/RTC_LCD/rtc_lcd.c)
-- [RTC LCD.h](Application/src/RTC_LCD/rtc_lcd.h)
-- [SerialConsole.c](Application/src/SerialConsole/SerialConsole.c)
-- [SerialConsole.h](Application/src/SerialConsole/SerialConsole.h)
-- [WifiHandler.c](Application/src/WifiHandlerThread/WifiHandler.c)
-- [WifiHandler.h](Application/src/WifiHandlerThread/WifiHandler.h)
-- [Flag.h](Application/src/flag.h)
-- [Main.c](Application/src/main21.c)
-- A link to your Node-RED dashboard code- [Link to your Node-RED dashboard code](node_red.json)
-- Links to any other software required for the functionality of your device
+- [Link to our final embedded C application firmware codebases](https://github.com/ese5160/a14g-final-submission-s25-t23-good-night/tree/main/Application)
+
+- [Link to our final embedded C bootloader firmware codebases](https://github.com/ese5160/a14g-final-submission-s25-t23-good-night/tree/main/Bootloader)
+
+- [Link to our AI voice module code](uni_hb_m_solution.zip)
+
+- [Link to our Node-RED dashboard code](node_red.json)
